@@ -1,5 +1,5 @@
 # Instructions on creating a resume using markdown.
-![markdown](/yiming/markdown.jfif)
+![markdown](/yimingzang.github.io/markdown.jfif)
 
 ------------
 
