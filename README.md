@@ -1,5 +1,5 @@
 # Instructions on creating a resume using markdown.
-![markdown](/yimingzang.github.io/markdown.jfif)
+![markdown](<a href='https://www.linkpicture.com/view.php?img=LPic6407b6a5500b62033814859'><img src='https://www.linkpicture.com/q/markdown.jfif' type='image'></a>)
 
 ------------
 
