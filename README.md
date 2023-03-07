@@ -22,11 +22,11 @@ If you choose to use typora as a development tool, first, go to the official web
 
 Installation
 Open the downloaded typora installation package, as shown.
-typo'ra1 pic
+![typo'ra1 pic](https://github.com/yimingzang/yimingzang.github.io/blob/main/typora2.png)
 
 
 Click Install, and you can use it after the installation is complete.
-t'ytypora2 
+![t'ytypora2 ](https://github.com/yimingzang/yimingzang.github.io/blob/main/typora%201.png)
 
 Note：If you have used other IDEs before, such as Visual Studio Code, typora provides a plugin that allows you to program using markdown without switching programming IDE. The specific configuration method is [here](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-typora "here").
 
