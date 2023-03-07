@@ -1,6 +1,5 @@
 # Instructions on creating a resume using markdown.
-![markdown]([<a href='https://www.linkpicture.com/view.php?img=LPic6407b6a5500b62033814859'><img src='https://www.linkpicture.com/q/markdown.jfif' type='image'></a>](https://ibb.co/6BHWqZC))
-
+![markdown](https://ibb.co/6BHWqZC)
 ------------
 
 This readme document is about how to convert your own resume to markdown format. And how to create a page of your own on GitHub and upload your resume to it.
