@@ -1,5 +1,5 @@
 # Instructions on creating a resume using markdown.
-![markdown](https://user-images.githubusercontent.com/8647429/212348410-55cbaa00-722a-4a30-8b57-da9e173e0675.jpg)
+![markdown](https://github.com/yimingzang/yimingzang.github.io/blob/main/markdown.jfif)
 ------------
 
 This readme document is about how to convert your own resume to markdown format. And how to create a page of your own on GitHub and upload your resume to it.
