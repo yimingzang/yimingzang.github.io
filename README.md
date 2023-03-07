@@ -51,7 +51,7 @@ After completing the IDE setup, register for a GitHub or Codeberg account, and t
 
 5.After you finish editing your resume, you need to upload your resume to your GitHub homepage. According to Etter's "Don't duplicate" principle, try to classify the files required for the resume into different files.
 
-upload github resume。gif
+![upload github resume。gif](https://github.com/yimingzang/yimingzang.github.io/blob/main/upload%20resume.gif)
 
 <pre>Note: If you used a resume template, make sure you cite it in your file to avoid copyright issues.</pre>
 
