@@ -4,9 +4,6 @@
 
 This readme document is about how to convert your own resume to markdown format. And how to create a page of your own on GitHub and upload your resume to it.
 
-Here is an example resume in markdown format：
-我的简历的图片
-
 
 Table Of Content
 - Prerequisites
