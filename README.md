@@ -8,7 +8,7 @@ This readme document is about how to convert your own resume to markdown format.
 Table Of Content
 - [Prerequisites](#Prerequisites)
 - [Instructions](#Instructions)
-- [Authors and Acknowledgments](#Authors and Acknowledgements)
+- [Authors and Acknowledgments](#Authors and Acknowledgments)
 - [FAQs](#FAQs)
 
 ---
