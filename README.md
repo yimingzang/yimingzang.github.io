@@ -62,13 +62,13 @@ Here is an example of a resume made using markdown.
 
 4B3. Many resume templates use multiple front-end programming languages, such as JavaScript, you need to have some knowledge of these. Alternatively, you can also choose a resume template that only needs to be completed using markdown, an example [here](https://github.com/tarrex/online-resume "here").
 
-5.After you finish editing your resume, you need to upload your resume to your GitHub homepage. According to Etter's "Don't duplicate" principle, try to classify the files required for the resume into different files.
+5.After you finish editing your resume, you need to upload your resume to your GitHub homepage. Make sure your resume is a .md file. According to Etter's "Don't duplicate" principle, sort the documents needed for this resume, such as photos, into their own folders.
 
 ![upload github resume。gif](https://github.com/yimingzang/yimingzang.github.io/blob/main/upload%20resume%20(1).gif)
 
 <pre>Note: If you used a resume template, make sure you cite it in your file to avoid copyright issues.</pre>
 
-6.Add the content that needs to be supplemented to the readme document.
+6.Create a README.md document using markdown. Add the content that needs to be supplemented to the readme document.
 
 7. After creating your resume page, use static web page generator, such as jekyll, to back up your website. Static webpages can make it easier for you to find potential problems in future modifications.
 
