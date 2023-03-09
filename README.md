@@ -8,7 +8,7 @@ This readme document is about how to create a page of your own on GitHub and upl
 Table Of Content
 - [Prerequisites](#Prerequisites)
 - [Instructions](#Instructions)
-- [Authors and Acknowledgments](#Authors_and_Acknowledgments)
+- [Authors and Acknowledgments](#AuthorsandAcknowledgments)
 - [FAQs](#FAQs)
 
 ---
