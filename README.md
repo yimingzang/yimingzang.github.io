@@ -88,14 +88,14 @@ More resources
 ---
 
 - Group 14
-Griffin LaFreniere 
-Rafia Rafa Islam 
-Yiming Zang 
-Shams Ahmad 
+Griffin LaFreniere ,
+Rafia Rafa Islam ,
+Yiming Zang ,
+Shams Ahmad ,
 
 - Template example used in step 4B3: tarrex/online-resume, [link](https://github.com/tarrex/online-resume "link")
 
-
+- Resume shown in step 4A is created by the [author](yimingzang.github.io "author"). 
 
 ## FAQs
 ---
