@@ -50,6 +50,7 @@ After completing the IDE setup, register for a GitHub or Codeberg account, and t
 4A.After creating your GitHub repository, you need to start rearranging your resume in markdown format. This requires you to use typora to complete. When editing, try to use some easy-to-understand methods, and make notes where necessary to make possible future modifications easier, as Etter mentioned in the book "use lightweight markup".
 
 Here is an example of a resume made using markdown.
+![Markdown resume example](https://github.com/yimingzang/yimingzang.github.io/blob/main/markdown%20resume%20example.gif)
 
 
 
