@@ -2,7 +2,7 @@
 ![markdown](https://github.com/yimingzang/yimingzang.github.io/blob/main/markdown.jfif)
 ------------
 
-This readme document is about how to convert your own resume to markdown format. And how to create a page of your own on GitHub and upload your resume to it.
+This readme document is about how to create a page of your own on GitHub and upload your resume to it.
 
 
 Table Of Content
