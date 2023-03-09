@@ -87,13 +87,13 @@ More resources
 ## Authors and Acknowledgments
 ---
 
-- Template
+- Group 14
+Griffin LaFreniere 
+Rafia Rafa Islam 
+Yiming Zang 
+Shams Ahmad 
 
-
-
-
-
-
+- Template example used in step 4B3: tarrex/online-resume, [link](https://github.com/tarrex/online-resume "link")
 
 
 
