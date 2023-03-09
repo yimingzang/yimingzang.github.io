@@ -45,7 +45,7 @@ After completing the IDE setup, register for a GitHub or Codeberg account, and t
 
 3.The new repository setting process is as follows, first select your repository name, then click add readme, and then click create.
 
-![qqlupinggif](https://github.com/yimingzang/yimingzang.github.io/blob/main/create%20repository.gif)
+![qqlupinggif](https://github.com/yimingzang/yimingzang.github.io/blob/main/create.gif)
 
 4A.After creating your GitHub repository, you need to start rearranging your resume in markdown format. This requires you to use typora to complete. When editing, try to use some easy-to-understand methods, and make notes where necessary to make possible future modifications easier, as Etter mentioned in the book "use lightweight markup".
 
