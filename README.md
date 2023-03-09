@@ -1,4 +1,4 @@
-# Instructions on creating a resume using markdown.
+# Instructions on creating a resume on GitHub.
 ![markdown](https://github.com/yimingzang/yimingzang.github.io/blob/main/markdown.jfif)
 ------------
 
