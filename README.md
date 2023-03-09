@@ -47,7 +47,13 @@ After completing the IDE setup, register for a GitHub or Codeberg account, and t
 
 ![qqlupinggif](https://github.com/yimingzang/yimingzang.github.io/blob/main/create%20repository.gif)
 
-4.After creating your GitHub repository, you need to start rearranging your resume in markdown format. This requires you to use typora to complete. When editing, try to use some easy-to-understand methods, and make notes where necessary to make possible future modifications easier, as Etter mentioned in the book "use lightweight markup".
+4A.After creating your GitHub repository, you need to start rearranging your resume in markdown format. This requires you to use typora to complete. When editing, try to use some easy-to-understand methods, and make notes where necessary to make possible future modifications easier, as Etter mentioned in the book "use lightweight markup".
+
+4B You can also use an existing template to create your own resume, the steps are as follows:
+
+4B1.Google a resume template that already exists on GitHub that you think is suitable for you.
+
+4B2. Read the README provided by the creator of the resume template to figure out how to use the resume and avoid copyright issues.
 
 5.After you finish editing your resume, you need to upload your resume to your GitHub homepage. According to Etter's "Don't duplicate" principle, try to classify the files required for the resume into different files.
 
