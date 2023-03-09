@@ -60,7 +60,7 @@ Here is an example of a resume made using markdown.
 
 4B2. Read the README provided by the creator of the resume template to figure out how to use the resume and avoid copyright issues.
 
-4B3. Many resume templates use multiple front-end programming languages, such as JavaScript, if you need to have some knowledge of these. Alternatively, you can also choose a resume template that only needs to be completed using markdown, an example [here](https://github.com/tarrex/online-resume "here").
+4B3. Many resume templates use multiple front-end programming languages, such as JavaScript, you need to have some knowledge of these. Alternatively, you can also choose a resume template that only needs to be completed using markdown, an example [here](https://github.com/tarrex/online-resume "here").
 
 5.After you finish editing your resume, you need to upload your resume to your GitHub homepage. According to Etter's "Don't duplicate" principle, try to classify the files required for the resume into different files.
 
