@@ -69,7 +69,6 @@ Here is an example of a resume made using markdown.
 <pre>Note: If you used a resume template, make sure you cite it in your file to avoid copyright issues.</pre>
 
 6.Add the content that needs to be supplemented to the readme document.
-
 7. After creating your resume page, use static web page generator, such as jekyll, to back up your website. Static webpages can make it easier for you to find potential problems in future modifications.
 
 
